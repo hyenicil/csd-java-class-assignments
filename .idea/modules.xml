@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/csd-java-class-assignments.iml" filepath="$PROJECT_DIR$/csd-java-class-assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palindrom/palindrom.iml" filepath="$PROJECT_DIR$/palindrom/palindrom.iml" />
+    </modules>
+  </component>
+</project>
