@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/craps/craps.iml" filepath="$PROJECT_DIR$/craps/craps.iml" />
       <module fileurl="file://$PROJECT_DIR$/csd-java-class-assignments.iml" filepath="$PROJECT_DIR$/csd-java-class-assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/histogram/histogram.iml" filepath="$PROJECT_DIR$/histogram/histogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottery/lottery.iml" filepath="$PROJECT_DIR$/lottery/lottery.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindrom/palindrom.iml" filepath="$PROJECT_DIR$/palindrom/palindrom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
