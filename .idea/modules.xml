@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/histogram/histogram.iml" filepath="$PROJECT_DIR$/histogram/histogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/lottery/lottery.iml" filepath="$PROJECT_DIR$/lottery/lottery.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindrom/palindrom.iml" filepath="$PROJECT_DIR$/palindrom/palindrom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/partition-sort/partition-sort.iml" filepath="$PROJECT_DIR$/partition-sort/partition-sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/selection-sort/selection-sort.iml" filepath="$PROJECT_DIR$/selection-sort/selection-sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
