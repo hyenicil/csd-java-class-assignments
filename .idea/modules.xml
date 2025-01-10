@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bubble-sort/bubble-sort.iml" filepath="$PROJECT_DIR$/bubble-sort/bubble-sort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/craps/craps.iml" filepath="$PROJECT_DIR$/craps/craps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/bubble-sort/bubble-sort.iml" filepath="$PROJECT_DIR$/modules/bubble-sort/bubble-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/untitled/countString.iml" filepath="$PROJECT_DIR$/modules/untitled/countString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/craps/craps.iml" filepath="$PROJECT_DIR$/modules/craps/craps.iml" />
       <module fileurl="file://$PROJECT_DIR$/csd-java-class-assignments.iml" filepath="$PROJECT_DIR$/csd-java-class-assignments.iml" />
-      <module fileurl="file://$PROJECT_DIR$/histogram/histogram.iml" filepath="$PROJECT_DIR$/histogram/histogram.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lottery/lottery.iml" filepath="$PROJECT_DIR$/lottery/lottery.iml" />
-      <module fileurl="file://$PROJECT_DIR$/palindrom/palindrom.iml" filepath="$PROJECT_DIR$/palindrom/palindrom.iml" />
-      <module fileurl="file://$PROJECT_DIR$/partition-sort/partition-sort.iml" filepath="$PROJECT_DIR$/partition-sort/partition-sort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/selection-sort/selection-sort.iml" filepath="$PROJECT_DIR$/selection-sort/selection-sort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/histogram/histogram.iml" filepath="$PROJECT_DIR$/modules/histogram/histogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/lottery/lottery.iml" filepath="$PROJECT_DIR$/modules/lottery/lottery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/palindrom/palindrom.iml" filepath="$PROJECT_DIR$/modules/palindrom/palindrom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/partition-sort/partition-sort.iml" filepath="$PROJECT_DIR$/modules/partition-sort/partition-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/selection-sort/selection-sort.iml" filepath="$PROJECT_DIR$/modules/selection-sort/selection-sort.iml" />
     </modules>
   </component>
 </project>
