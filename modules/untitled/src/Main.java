@@ -7,6 +7,7 @@ public class Main {
     }
 }
 
+
 class CountStringTest {
 
     public static void run() {
