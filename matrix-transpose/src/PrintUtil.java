@@ -4,6 +4,10 @@ public class PrintUtil {
         System.out.printf("%s",a);
     }
 
+    public static void printString(String a, String b) {
+        System.out.printf("%s%s",a,b);
+    }
+
     public static void printInt(int a) {
         printInt(1,a,"","");
     }
