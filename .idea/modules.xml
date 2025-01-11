@@ -8,10 +8,11 @@
       <module fileurl="file://$PROJECT_DIR$/csd-java-class-assignments.iml" filepath="$PROJECT_DIR$/csd-java-class-assignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/histogram/histogram.iml" filepath="$PROJECT_DIR$/modules/histogram/histogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/lottery/lottery.iml" filepath="$PROJECT_DIR$/modules/lottery/lottery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrix-transpose/matrix-transpose.iml" filepath="$PROJECT_DIR$/matrix-transpose/matrix-transpose.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/palindrom/palindrom.iml" filepath="$PROJECT_DIR$/modules/palindrom/palindrom.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/partition-sort/partition-sort.iml" filepath="$PROJECT_DIR$/modules/partition-sort/partition-sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/selection-sort/selection-sort.iml" filepath="$PROJECT_DIR$/modules/selection-sort/selection-sort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sum-diagonal/sum-diagonal.iml" filepath="$PROJECT_DIR$/sum-diagonal/sum-diagonal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sum-diagonal/sum-diagonal.iml" filepath="$PROJECT_DIR$/modules/sum-diagonal/sum-diagonal.iml" />
     </modules>
   </component>
 </project>
