@@ -6,9 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/modules/untitled/countString.iml" filepath="$PROJECT_DIR$/modules/untitled/countString.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/craps/craps.iml" filepath="$PROJECT_DIR$/modules/craps/craps.iml" />
       <module fileurl="file://$PROJECT_DIR$/csd-java-class-assignments.iml" filepath="$PROJECT_DIR$/csd-java-class-assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grade-point-average/grade-point-average.iml" filepath="$PROJECT_DIR$/grade-point-average/grade-point-average.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/histogram/histogram.iml" filepath="$PROJECT_DIR$/modules/histogram/histogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/lottery/lottery.iml" filepath="$PROJECT_DIR$/modules/lottery/lottery.iml" />
-      <module fileurl="file://$PROJECT_DIR$/matrix-transpose/matrix-transpose.iml" filepath="$PROJECT_DIR$/matrix-transpose/matrix-transpose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/matrix-transpose/matrix-transpose.iml" filepath="$PROJECT_DIR$/modules/matrix-transpose/matrix-transpose.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/palindrom/palindrom.iml" filepath="$PROJECT_DIR$/modules/palindrom/palindrom.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/partition-sort/partition-sort.iml" filepath="$PROJECT_DIR$/modules/partition-sort/partition-sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/selection-sort/selection-sort.iml" filepath="$PROJECT_DIR$/modules/selection-sort/selection-sort.iml" />
